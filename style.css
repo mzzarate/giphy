@@ -1,0 +1,22 @@
+button {
+    padding: 5px;
+    margin: 5px;
+}
+
+img {
+    width: 200px;
+    margin: 10px;
+}
+
+body {
+    background-image: url("img/img.jpg");
+
+}
+div {
+    text-align: center;
+  
+  }
+div.imagecontain {
+
+ text-align: center;
+}
